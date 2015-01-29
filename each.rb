@@ -1,4 +1,4 @@
-# Each.rb
+# Assignment 8
 print "Hello, please choose a number: "
 
 number = gets.chomp
