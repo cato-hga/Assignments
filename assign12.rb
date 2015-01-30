@@ -32,16 +32,4 @@ end
 
 
 
-#assign.each(a) = gets.chomp
 
-#{|x| print x, "--"}
-
-
-
-
-
-
-
-
-
- #puts assign.each {}
