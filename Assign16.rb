@@ -3,12 +3,13 @@
 
 require 'net/http'
 
-uri = URI ("http://www.scifiscripts.com/scripts/13th_floor.txt")
+uri = URI ('http://www.scifiscripts.com/scripts/13th_floor.txt')
 
-open ('screenplay16.txt','w') do |script|
+open('screen16.txt','w') do |script|
 
-  answer = Net::HTTP.gets(uri)
+  answer = Net::HTTP.get(uri)
 
   script.puts answer
+
 
 end
