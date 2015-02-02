@@ -3,11 +3,11 @@ The Thirteenth Floor
 INT. HOTEL ROOM-MIGHT 1930 L.A.  Fuller writes a letter
 
 FULLER
-They say, "Ignorance is bliss." For the first time in my life, I
-agree. I wish I had never uncovered the awful truth. I know now.
-once they find out, they will try to silence me. That is why I've
-written this all down for you in this letter.  You*re the only
-one whom I can tell this to.  The only one who could possibly
+They say, "Ignorance is bliss." For the first time in my life, I 
+agree. I wish I had never uncovered the awful truth. I know now. 
+once they find out, they will try to silence me. That is why I've 
+written this all down for you in this letter.  You*re the only 
+one whom I can tell this to.  The only one who could possibly 
 understand. Good luck, my friend.
 
 INT. HOTEL-NIGHT
@@ -31,7 +31,7 @@ ASHTON
 You'd like to meet her?
 
 FULLER
-I want you to keep this letter. Somebody will ask for it. A man
+I want you to keep this letter. Somebody will ask for it. A man 
 named Douglas Hall. Remember, it's crucial that he receives it.
 
 ASHTON
@@ -79,7 +79,7 @@ PHONE
 Please leave a message at the tone.
 
 FULLER
-Douglas, it's me. Listen, I've stumbled onto something
+Douglas, it's me. Listen, I've stumbled onto something 
 incredible. This changes everything.
 
 EXT. OUTSIDE THE BAR -NIGHT
@@ -94,16 +94,16 @@ You have new messages. You have 3 new messages.
 
 PHONE
 First new message
-Five twenty-five a.m.
+Five twenty-five a.m. 
 
 HILLARY
-Douglas, it's Hilary. Don't forget to call Marshall. Legal is
-screaming for the contract.  I'll have a notary come to the
+Douglas, it's Hilary. Don't forget to call Marshall. Legal is 
+screaming for the contract.  I'll have a notary come to the 
 office at lunch.
 
 PHONE
 Next new message
-Five forty-eight a.m.
+Five forty-eight a.m. 
 
 HILLARY
 It's me again. Please call me as soon as you get up.
@@ -113,13 +113,13 @@ Next new message
 Six thirteen a.m.
 
 McBAIN
-Mr. Douglas Hall, this is Detective McBain, LAPD.  I'd appreciate
+Mr. Douglas Hall, this is Detective McBain, LAPD.  I'd appreciate 
 a callback, please. My phone number is 555-7876.
 
 INT.POLICE OFFICE - MORNING
 
 BERNTEIN
-I'm Detective Zev Bernstein. Sorry to drag you out of bed so
+I'm Detective Zev Bernstein. Sorry to drag you out of bed so 
 early.  This is Detective McBain.
 
 McBAIN
@@ -135,10 +135,10 @@ DOUGLAS
 No.
 
 McBAIN
-We found him in an alley at Spring and Grand. Looks like he ran
-into some guy who wasn't just asking for a quarter. Carved him up
+We found him in an alley at Spring and Grand. Looks like he ran 
+into some guy who wasn't just asking for a quarter. Carved him up 
 like a ham. Took everything
-Wallet, credit cards. Got a real kick out of it. What's your
+Wallet, credit cards. Got a real kick out of it. What's your 
 connection to the old man?
 
 DOUGLAS
@@ -151,8 +151,8 @@ DOUGLAS
 I don't smoke.
 
 McBAIN
-We found these on him.  Traced the prescription. According to his
-doctor.  Fuller listed you to call in case of medical
+We found these on him.  Traced the prescription. According to his 
+doctor.  Fuller listed you to call in case of medical 
 emergencies. He had no next of kin?
 
 DOUGLAS
@@ -171,7 +171,7 @@ DOUGLAS
 Everybody liked him.
 
 McBAIN
-Mind if I tag along?  Or we can continue in my office, if that's
+Mind if I tag along?  Or we can continue in my office, if that's 
 more convenient.
 
 DOUGLAS
@@ -180,7 +180,7 @@ That's fine.
 McBain, What do you do for a paycheck, anyway?
 
 DOUGLAS
-Computer software. Would you mind taking care of the car this
+Computer software. Would you mind taking care of the car this 
 morning?
 
 McBAIN
@@ -201,8 +201,8 @@ DOUGLAS
 What?
 
 McBAIN
-I see these signs every time I leave work - " You could be home
-already. Apartment living in downtown." Never expected it could
+I see these signs every time I leave work - " You could be home 
+already. Apartment living in downtown." Never expected it could 
 look anything like this.
 
 DOUGLAS
@@ -218,11 +218,11 @@ McBAIN
 I'm paid to be interested.
 
 DOUGLAS
-Computer research. Fuller was onto a  whole new frontier. Very
+Computer research. Fuller was onto a  whole new frontier. Very 
 sensitive material.  Not at liberty to discuss it.
 
 McBAIN
-A lot of money involved. This apartment must be worth a few
+A lot of money involved. This apartment must be worth a few 
 million dollars.
 
 DOUGLAS
@@ -237,7 +237,7 @@ DOUGLAS
 Can I help you?
 
 JANE
-I just talked to him 2 days ago. I can't believe he' gone.  My
+I just talked to him 2 days ago. I can't believe he' gone.  My 
 name is Jane Fuller. Hannon was my father.
 
 DOUGLAS
@@ -250,11 +250,11 @@ DOUGLAS
 Really? He never mentioned to me that he had a daughter.
 
 JANE
-he didn't? I just arrived from Paris this morning. I was supposed
+he didn't? I just arrived from Paris this morning. I was supposed 
 to meet him. But then I heard.
 
 McBAIN
-My condolences, Miss Fuller. I'm Detective McBain, LAPD.  I have
+My condolences, Miss Fuller. I'm Detective McBain, LAPD.  I have 
 to ask you some questions.
 
 JANE
@@ -278,7 +278,7 @@ DOUGLAS
 Hey, Whitney. How you doing?
 
 WHITNEY
-Sliced him up like an animal. And for what?  He was the Einstein
+Sliced him up like an animal. And for what?  He was the Einstein 
 of our generation. It's a waste.
 
 DOUGLAS
@@ -297,7 +297,7 @@ DOUGLAS
 No, I thought we were months away from the first trial run.
 
 WHITNEY
-We are. But you know, he was taking a big chance.  What was I
+We are. But you know, he was taking a big chance.  What was I 
 supposed to do? You know how he is.
 
 DOUGLAS
@@ -353,21 +353,21 @@ McBAIN
 The whole thing's a giant computer game?
 
 WHITNEY
-No not at all, it doesn't need a user to interact with it to
+No not at all, it doesn't need a user to interact with it to 
 function. Its units are fully-formed, self-learning cyber beings.
 
 McBAIN
 Units?
 
 WHITNEY
-Electronic, simulated characters. They populate the system.  They
+Electronic, simulated characters. They populate the system.  They 
 think they work, they eat,
 
 McBAIN
 They fuck?
 
 WHITNEY
-Let's just say that they're modeled after us.  Right now we have
+Let's just say that they're modeled after us.  Right now we have 
 a working prototype
 Los Angeles, circa 1937.
 
@@ -375,13 +375,13 @@ McBAIN
 Why '37?
 
 WHITNEY
-Fuller wanted to start by recreating the era of his youth. You
-see, while my mind is jacked in, I'm walking around experiencing
-1937. My body stays here and holds the consciousness of the
+Fuller wanted to start by recreating the era of his youth. You 
+see, while my mind is jacked in, I'm walking around experiencing 
+1937. My body stays here and holds the consciousness of the 
 program link unit.
 
 McBAIN
-You think one of them units crawled up an extension cord and
+You think one of them units crawled up an extension cord and 
 killed its maker?
 
 INT. HOTEL ROBBY
@@ -396,12 +396,12 @@ JANE
 Mr. Hall. What are you doing here.
 
 DOUGLAS
-Well, it's about your father. Actually.  You said you spoke with
-him a few days ago.  Can you tell me anything about that
+Well, it's about your father. Actually.  You said you spoke with 
+him a few days ago.  Can you tell me anything about that 
 conversation?  Did he seem strange to you at all?
 
 JANE
-Well, he'd been under a lot of stress lately. He asked me to fly
+Well, he'd been under a lot of stress lately. He asked me to fly 
 to the States, so I could help with the company.
 
 DOUGLAS
@@ -411,7 +411,7 @@ JANE
 Shut it down.
 
 DOUGLAS
-I worked with him for 6 years. If he wanted to shut it down, he
+I worked with him for 6 years. If he wanted to shut it down, he 
 would've told me about it.
 
 JANE
@@ -421,19 +421,19 @@ MAN
 It's nice to see you again.
 
 JANE
-Sorry I'm late. Have you had a chance to look through the
+Sorry I'm late. Have you had a chance to look through the 
 paperwork?
 
 MAN
-Yes, I have. And I think we have a very strong case. The company
+Yes, I have. And I think we have a very strong case. The company 
 should be yours in no time.
 
 JANE
 What do you mean strong case?
 
 MAN
-What  I'm saying is , your father changed his will in favor of
-the employees.  In fact you aren't mentioned in the original will
+What  I'm saying is , your father changed his will in favor of 
+the employees.  In fact you aren't mentioned in the original will 
 either.  But as I said, I think we have a very strong case.
 
 JANE
@@ -443,7 +443,7 @@ MAN
 Douglas Hall.
 
 McBAIN
-Not bad. Owner of a &2 billion enterprise. Strange, Fuller would
+Not bad. Owner of a &2 billion enterprise. Strange, Fuller would 
 amend his will just a couple days before he died.
 
 DOUGLAS
@@ -451,7 +451,7 @@ I was on a airplane when it happened.
 
 McBAIN
 According to the security guard, Fuller left the office at ten-
-thirty p.m., 30 minutes after your plane arrived. Autopsy shows
+thirty p.m., 30 minutes after your plane arrived. Autopsy shows 
 that he died around midnight.  You had time to catch up with him.
 
 DOUGLAS
@@ -464,16 +464,16 @@ DOUGLAS
 None of the above.
 
 McBAIN
-You know, that's funny. We checked Fuller's phone records. He
-made a call with his calling card at 11:02p.m.b Your home number.
-I'd appreciate it if you didn't leave for a couple of days. And
+You know, that's funny. We checked Fuller's phone records. He 
+made a call with his calling card at 11:02p.m.b Your home number. 
+I'd appreciate it if you didn't leave for a couple of days. And 
 get that game fixed. It*s missing a spring.
 
 INT. HALL'S APARTMENT
 
 PHONE
-Restore. To restore messages, press "rewind" now.  Yesterday at
-two forty-five p.m.
+Restore. To restore messages, press "rewind" now.  Yesterday at 
+two forty-five p.m. 
 
 MAN
 I managed to reschedule...
@@ -490,8 +490,8 @@ Yesterday at 11:02p.m.
 FULLER
 Douglas, it's me. Listen, I've stumbled onto something
 
-incredible. This changed everything. I'm here in some bar on Main
-and 7th. In case something happens to me, I left you a massage
+incredible. This changed everything. I'm here in some bar on Main 
+and 7th. In case something happens to me, I left you a massage 
 in the system. I gave it to.. How did you find me?
 
 INT. THE 13TH  FLOOR
@@ -506,7 +506,7 @@ WHITNEY
 For what?
 
 DOUGLAS
-He left a message for me the night he died.  He knew someone
+He left a message for me the night he died.  He knew someone 
 wanted to kill him.
 
 WHITNEY
@@ -525,11 +525,11 @@ WHITNEY
 Douglas, please. This is my stuff, okay?
 
 DOUGLAS
-So these are the units that Fuller interacted with when he was
+So these are the units that Fuller interacted with when he was 
 down there.  Maybe he wanted me to go in.
 
 WHITNEY
-If you're thinking what I think you're thinking.  Don't even
+If you're thinking what I think you're thinking.  Don't even 
 think about it.
 
 DOUGLAS
@@ -551,9 +551,9 @@ WHITNEY
 What are you talking about?
 
 DOUGLAS
-Everything points to me.  To be perfectly honest, I don't know
-the truth is anymore.  Either I did murder Fuller and I can' t
-remember, or I'm being framed.  The one clue I have is in that
+Everything points to me.  To be perfectly honest, I don't know 
+the truth is anymore.  Either I did murder Fuller and I can' t 
+remember, or I'm being framed.  The one clue I have is in that 
 machine. I need your help if I'm going to find it.
 
 WHITNEY
@@ -575,7 +575,7 @@ DOUGLAS
 Whit, 1-2-0.
 
 COMPUTER
-120 minutes. Engage timer. Preparing user for download into
+120 minutes. Engage timer. Preparing user for download into 
 simulation. Ready for download.
 
 DOUGLAS
@@ -602,13 +602,13 @@ DOUGLAS
 No, thanks. Don't smoke.
 
 CLARK
-Since when? Listen John. Why don't you break for lunch? Get some
+Since when? Listen John. Why don't you break for lunch? Get some 
 fresh air.  You look terrible.
 
 EXT. STREET DAY
 
 BOY
-Extra! Extra! Zeppelin blast kills 35!  You want one, mister?
+Extra! Extra! Zeppelin blast kills 35!  You want one, mister? 
 It's 5 cents.
 
 DOUGLAS
@@ -638,32 +638,32 @@ DOUGLAS
 Thank you. You own this place?
 
 GRIERSON
-I mean, it's not much but it's mine. You looking for anything in
+I mean, it's not much but it's mine. You looking for anything in 
 particular?
 
 DOUGLAS
-Interested in a scientist. Wrote a couple of books about
+Interested in a scientist. Wrote a couple of books about 
 semiconductors and the limitation of the 64-bit microchip.
 
 GRIERSON
 Microchip. Semiconductors. What year?
 
-DOUGLAS :
+DOUGLAS : 
 Early seventies? His name was Hannon Fuller.
 
 GRIERSON
-Hannon Fuller. 1870. No I can't say I've ever heard of Hannon
-Fuller. 1870, Microchips. But I'm not much of a  technical
-person, you know. You been here before? You look kind of
+Hannon Fuller. 1870. No I can't say I've ever heard of Hannon 
+Fuller. 1870, Microchips. But I'm not much of a  technical 
+person, you know. You been here before? You look kind of 
 familiar.
 
 DOUGLAS
 name's Douglas Hall.
 
 GRIERSON
-Douglas Hall. It doesn't ring a bell. Guess you just have one of
-those faces familiar faces. Oh, it's late. I'd like to close up
-now.
+Douglas Hall. It doesn't ring a bell. Guess you just have one of 
+those faces familiar faces. Oh, it's late. I'd like to close up 
+now. 
 
 DOUGLAS
 Of course. Pleasure.
@@ -698,7 +698,7 @@ DOUGLAS
 No.
 
 WOMAN
-Now, listen. She ain't doing nothing wrong no more.  If you don't
+Now, listen. She ain't doing nothing wrong no more.  If you don't 
 cause her no trouble, you'll find her at Wilshire Grand Hotel.
 
 INT. WILSHIRE GRAND HOTEL
@@ -719,7 +719,7 @@ DOUGLAS
 his name's fuller.
 
 BRIDGET
-The manager's very tough on us. You'll have to wait till I'm off
+The manager's very tough on us. You'll have to wait till I'm off 
 duty.
 
 DOUGLAS
@@ -758,11 +758,11 @@ ASHTON
 Why?
 
 DOUGLAS
-I'm his friend. He didn't come home last night. And his wife is
+I'm his friend. He didn't come home last night. And his wife is 
 concerned.  My name is Douglas hall.
 
 ASHTON
-Concerned wives? I can't help you with that. How about something
+Concerned wives? I can't help you with that. How about something 
 fancy?
 
 DOUGLAS
@@ -776,7 +776,7 @@ What does he do?
 
 ASHTON
 What everybody does
-Drinks, dances, has a good time.  Especially has a good time. He
+Drinks, dances, has a good time.  Especially has a good time. He 
 really goes for the girls.
 
 DOUGLAS
@@ -813,7 +813,7 @@ DOUGLAS
 Did you see him talking to anybody else?
 
 ASHTON
-I'm a very busy man. Listen, if you like, I can arrange something
+I'm a very busy man. Listen, if you like, I can arrange something 
 for you too.  You see anything you want?
 
 DOUGLAS
@@ -822,16 +822,16 @@ Can you tell me where the bathroom is , please?
 INT. THE 13TH FLOOR
 
 WHITNEY
-You all right? You sure? All right, take it easy. Hey, man. Take
-it easy.  I told you, 120 minutes. It's too long. You're really
+You all right? You sure? All right, take it easy. Hey, man. Take 
+it easy.  I told you, 120 minutes. It's too long. You're really 
 pushing your luck.
 
 DOUGLAS
 What happened?
 
 WHITNEY
-The memory transference with your link it froze. Started
-overlapping! Thought I'd be shooting hoops with Ferguson for the
+The memory transference with your link it froze. Started 
+overlapping! Thought I'd be shooting hoops with Ferguson for the 
 rest of my life.
 
 INT. THE BAR 1973
@@ -843,7 +843,7 @@ ASHTON
 Sure.
 
 FERGUSON
-Thank you. Mind if I ask you a question? Can you tell me where I
+Thank you. Mind if I ask you a question? Can you tell me where I 
 am?
 
 INT. THE 13TH FLOOR
@@ -873,7 +873,7 @@ DOUGLAS
 They're as real as you and me.
 
 WHITNEY
-You see the old man was right! All those years of work! Did you
+You see the old man was right! All those years of work! Did you 
 find out what he was doing there?
 
 DOUGLAS
@@ -883,7 +883,7 @@ WHITNEY
 You're kidding me.
 
 GUARD
-Excuse me , Mr. Hall?  A man in the lobby says he needs to talk
+Excuse me , Mr. Hall?  A man in the lobby says he needs to talk 
 to you.
 
 DOUGLAS
@@ -901,7 +901,7 @@ TOM
 You're Hall, right?
 
 DOUGLAS
-How can I help you, Mr. Tom Jones. You know, like the singer.
+How can I help you, Mr. Tom Jones. You know, like the singer.  
 How about some privacy?
 
 DOUGLAS
@@ -937,8 +937,8 @@ DOUGLAS
 Get away with what?
 
 TOM
-You took the old man, asshole! Listen to me. He was at the bar.
-You pick him up, leave together. Next day he's an obit. You do
+You took the old man, asshole! Listen to me. He was at the bar. 
+You pick him up, leave together. Next day he's an obit. You do 
 the math, asshole!
 
 INT.CAR NIGHT RAIN
@@ -955,7 +955,7 @@ hello? Who is this?
 INT. HOTEL NIGHT
 
 DOUGLAS
-The night your father was killed, he tried to reach me. He wanted
+The night your father was killed, he tried to reach me. He wanted 
 to meet at some bar.
 
 JANE
@@ -971,16 +971,16 @@ DOUGLAS
 I know how strange this sounds. I can't remember.
 
 JANE
-What do you mean, you can't remember? Did you talk to the
+What do you mean, you can't remember? Did you talk to the 
 detective about this?
 
 DOUGLAS
-No, but the bartender will, if I don't pay up. I know how crazy
+No, but the bartender will, if I don't pay up. I know how crazy 
 this sounds.
 
 JANE
-You can't just plug your brain into this machine and not expect
-to be affected by it please walk away from this before you get
+You can't just plug your brain into this machine and not expect 
+to be affected by it please walk away from this before you get 
 hurt too.
 
 DOUGLAS
@@ -1017,14 +1017,14 @@ DOUGLAS
 I buy all my shoes in left pairs.
 
 JANE
-It's easy. I'll show you the steps. You're doing pretty good for
+It's easy. I'll show you the steps. You're doing pretty good for 
 a man with no right foot.
 
 DOUGLAS
 must've picked it up in another life.
 
 JANE
-You know that feeling you have that we met before? It's the same
+You know that feeling you have that we met before? It's the same 
 with me.
 
 DOUGLAS
@@ -1047,14 +1047,14 @@ DOUGLAS
 Those are my plates.
 
 McBAIN
-No, shit? That's from a security camera in your garage in your
+No, shit? That's from a security camera in your garage in your 
 office building the night Fuller was killed.
 
 DOUGLAS
 I'm not sure. I don't understand.
 
 McBAIN
-That makes one of us.  Fuller wants to shut down the project,
+That makes one of us.  Fuller wants to shut down the project, 
 and you sliced him up.
 
 DOUGLAS
@@ -1079,9 +1079,9 @@ DOUGLAS
 Must be the stress.
 
 McBAIN
-Then you'll need a carton. Mane's Tom Jones. Said he saw your
-picture in the news paper.  Said you looked like the guy Fuller
-left the bar with that night.  We took his statement. Said we'd
+Then you'll need a carton. Mane's Tom Jones. Said he saw your 
+picture in the news paper.  Said you looked like the guy Fuller 
+left the bar with that night.  We took his statement. Said we'd 
 be in touch. Someone reached out and touched him first.
 
 INT. JAIL
@@ -1095,8 +1095,8 @@ DOUGLAS
 What did you tell him?
 
 JANE
-The truth. We met for a drink, one thing led to another, we spent
-the night together. Your picture was on the news. He saw you and
+The truth. We met for a drink, one thing led to another, we spent 
+the night together. Your picture was on the news. He saw you and 
 thought you were good for quick cash.
 
 DOUGLAS
@@ -1112,7 +1112,7 @@ JANE
 You're not a killer.
 
 DOUGLAS
-Your father stumbled onto something. He left me a message that
+Your father stumbled onto something. He left me a message that 
 has something to do with this.
 
 JANE
@@ -1133,8 +1133,8 @@ GRIERSON
 I told you! I'll call the police.
 
 DOUGLAS
-Listen! I know why you pass out from time to time. I know why you
-wake up and have no idea where you are. What did you do 3 nights
+Listen! I know why you pass out from time to time. I know why you 
+wake up and have no idea where you are. What did you do 3 nights 
 ago? Any idea?
 
 INT. THE BOOK STORE
@@ -1146,7 +1146,7 @@ GRIERSON
 First time? About 4 weeks ago.
 
 DOUGLAS
-And the last episode was 3 nights ago? It lasts for about 2
+And the last episode was 3 nights ago? It lasts for about 2 
 hours?
 
 GRIERSON
@@ -1174,14 +1174,14 @@ DOUGLAS
 Real or imagined?
 
 GRIERSON
-According to my wife, it's pretty real. I found this. A couple of
+According to my wife, it's pretty real. I found this. A couple of 
 days ago.
 
 DOUGLAS
 Your size?
 
 GRIERSON
-I'm married over 35 years now. And not once have I cheated on my
+I'm married over 35 years now. And not once have I cheated on my 
 wife.  Not once.
 
 DOUGLAS
@@ -1225,18 +1225,18 @@ DOUGLAS
 Let's talk, " honey bear" You remember her?
 
 GRIERSON
-Of course not. She's mistaken me for someone else. Or someone
+Of course not. She's mistaken me for someone else. Or someone 
 else.
 
 DOUGLAS
 I want you to look around and tell me what you remember.
 
 GRIERSON
-I don't know, Mr. Hall. I'd rather go home. I don't feel very
+I don't know, Mr. Hall. I'd rather go home. I don't feel very 
 well.
 
 DOUGLAS
-You have the feeling you've been here before? Please try to
+You have the feeling you've been here before? Please try to 
 remember. Do you recognized anybody?
 
 GRIERSON
@@ -1261,11 +1261,11 @@ GRIERSON
 Bridget. Oh Yes. I remember Bridget.
 
 DOUGLAS
-Did you give her something to give me? Did you give her a letter
+Did you give her something to give me? Did you give her a letter 
 or a note?
 
 GRIERSON
-The man behind the bar. You're right. I wrote a letter. And gave
+The man behind the bar. You're right. I wrote a letter. And gave 
 it to him.
 
 INT. THE BASEMENT
@@ -1277,55 +1277,55 @@ DOUGLAS
 My name's Ferguson. I'm a bank teller.
 
 ASHTON
-I'm Clark Gable. I talked to the Ferguson guy. He doesn't know a
+I'm Clark Gable. I talked to the Ferguson guy. He doesn't know a 
 thing.  I need to talk to Fuller.
 
 DOUGLAS
 He's upstairs.
 
 ASHTON
-Cut the crap! You think I don't know what's going in? I need to
+Cut the crap! You think I don't know what's going in? I need to 
 see him I need to talk to him again.
 
 DOUGLAS
 You read the letter. I need to know what's in the letter.
 
 ASHTON
-Everything. When I read it, I thought it was a gag. The world's a
-sham. Fat chance. but I'm not stupid, Mr. Hall. I watched you and
-Ferguson do the old switcheroo. That stuff about going to " the
+Everything. When I read it, I thought it was a gag. The world's a 
+sham. Fat chance. but I'm not stupid, Mr. Hall. I watched you and 
+Ferguson do the old switcheroo. That stuff about going to " the 
 ends of the earth"
 
 DOUGLAS
 What stuff?
 
 ASHTON
-I did exactly what the letter said. I chose a place I'd never go
-to.  I tried to drive to Tucson. I figured, what the hell. Never
-been to the countryside.  And I took that car out on the highway.
-I was going over 50 through that desert. After a while, it was
-the only car on the road. It was just me, the heat and the dust.
-I did exactly what the letter said. "Don't follow any road signs
-and don't stop for anything. Not even barricades." But just when
-I should've been getting closer to the city. Something wasn't
-right. There was no movement, no life. Everything was still and
-quiet. And then I got out of the car. And what I saw scared me to
-the depths of my miserable soul. It was true. It was all a sham.
-It ain't real.
+I did exactly what the letter said. I chose a place I'd never go 
+to.  I tried to drive to Tucson. I figured, what the hell. Never 
+been to the countryside.  And I took that car out on the highway. 
+I was going over 50 through that desert. After a while, it was 
+the only car on the road. It was just me, the heat and the dust. 
+I did exactly what the letter said. "Don't follow any road signs 
+and don't stop for anything. Not even barricades." But just when 
+I should've been getting closer to the city. Something wasn't 
+right. There was no movement, no life. Everything was still and 
+quiet. And then I got out of the car. And what I saw scared me to 
+the depths of my miserable soul. It was true. It was all a sham. 
+It ain't real. 
 
 DOUGLAS
-Why would Fuller write about the limitations of the simulation?
+Why would Fuller write about the limitations of the simulation?  
 I know them.
 
 ASHTON
-I'm asking the questions now. I want to know why would you put us
+I'm asking the questions now. I want to know why would you put us 
 through this? Why are you fucking with our minds?
 
 DOUGLAS
 You weren't supposed to find out.
 
 ASHTON
-Well I did. Now I want you to show me what is real. Is this real?
+Well I did. Now I want you to show me what is real. Is this real? 
 Is that real blood? How do you like having your life fucked with?
 
 DOUGLAS
@@ -1340,7 +1340,7 @@ DOUGLAS
 Did you yank me back?
 
 WHITNEY
-Yeah, barely, man. Just barely. You didn't start the timer. It
+Yeah, barely, man. Just barely. You didn't start the timer. It 
 couldn't engage. What are you doing this alone for anyway?
 
 DOUGLAS
@@ -1356,26 +1356,26 @@ WHITNEY
 Jesus!
 
 DOUGLAS
-he found out his world isn't real. This is a mistake. This whole
+he found out his world isn't real. This is a mistake. This whole 
 project, this experiment. We are screwing with people's lives!
 
 WHITNEY
 Now you're talking crazy. I know you just had a bad fucking trip.
 
 DOUGLAS
-Bad fucking trip? These people are real. They are as real as you
+Bad fucking trip? These people are real. They are as real as you 
 and me.
 
 WHITNEY
-Yeah, that's because we designed them that way.  In the end,
+Yeah, that's because we designed them that way.  In the end, 
 they're just a bunch of electronic circuits.
 
 DOUGLAS
-I tell you something else. I'm shutting this bad fucking trip
+I tell you something else. I'm shutting this bad fucking trip 
 right down.  I'm telling everybody tomorrow.
 
 WHITNEY
-You can't do that. You're talking about 6 years of our lives.
+You can't do that. You're talking about 6 years of our lives.  
 All of us.  You can't just pull the plug and go home.
 
 INT.HOTEL ROBBY
@@ -1393,20 +1393,20 @@ DOUGLAS
 Why would I?
 
 McBAIN
-Hannon Fuller doesn't have a daughter. I think I made the age-old
+Hannon Fuller doesn't have a daughter. I think I made the age-old 
 mistake.  "Never trust a beautiful woman."
 
 DOUGLAS
 Who is she, then?
 
 McBAIN
-We don't know. It took us a couple days to contact the French
+We don't know. It took us a couple days to contact the French 
 authorities.  Guess what? They never heard of her either.
 
 EXT.OUTSIDE THE HOTEL
 
 DOUGLAS
-Do you remember me? Miss Fuller checked out.  Did you drive her
+Do you remember me? Miss Fuller checked out.  Did you drive her 
 anywhere? I'm looking for her.
 
 DRIVER
@@ -1415,14 +1415,14 @@ No can do. Company rules.
 EXT.
 
 DOUGLAS
-Hello! My name's Douglas hall. I'm looking for a young woman
+Hello! My name's Douglas hall. I'm looking for a young woman 
 named Jane Fuller.
 
 WOMAN
 I think you picked the wrong house.
 
 DOUGLAS
-Maybe she's going under another name. She's about 5'8". Blonde
+Maybe she's going under another name. She's about 5'8". Blonde 
 hair.
 
 WOMAN
@@ -1472,21 +1472,21 @@ DOUGLAS
 Sorry about staring at you in there. You must get that a lot.
 
 NATASHA
-Yeah,  but mostly from the wrong kinds of guys. You're not from
+Yeah,  but mostly from the wrong kinds of guys. You're not from 
 here, are you?
 
 DOUGLAS
 What makes you ask?
 
 NATASHA
-Well, it's just I don't know I just had this funny feeling that
+Well, it's just I don't know I just had this funny feeling that 
 we met before.
 
 DOUGLAS
 Maybe in another life.
 
 NATASHA
-yeah, I guess that would explain it. Anyway, I got to get back to
+yeah, I guess that would explain it. Anyway, I got to get back to 
 my daily grind, so. Maybe I'll see you around sometime.
 
 INT. THE SUPERMARKET
@@ -1498,18 +1498,18 @@ McBAIN
 Thank you.
 
 COP
-Natasha Molinaro.. 27 single. Changes job like other change
-underwear. Came from Austin, Texas, made some money modeling.
-Left school without a degree. Her roommate has no idea what she
-was doing yesterday or the day before. Looks like Molinaro
+Natasha Molinaro.. 27 single. Changes job like other change 
+underwear. Came from Austin, Texas, made some money modeling. 
+Left school without a degree. Her roommate has no idea what she 
+was doing yesterday or the day before. Looks like Molinaro 
 doesn't have an alibi.
 
 McBAIN
 What else did the roommate say?
 
 COP
-Says lately, Natasha hasn't been feeling well. She's been having
-some sort of amnesia attacks. Going out all night sleeping all
+Says lately, Natasha hasn't been feeling well. She's been having 
+some sort of amnesia attacks. Going out all night sleeping all 
 day. Thought she was using drugs.
 
 McBAIN
@@ -1539,15 +1539,15 @@ DOUGLAS
 How many simulated worlds like this are there?
 
 JANE
-Thousands. Yours is the only one that ever created a simulation
+Thousands. Yours is the only one that ever created a simulation 
 within the simulation. Something we never expected.
 
 DOUGLAS
 So you had to kill Fuller.
 
 JANE
-No. I was sent in after his death. I was to pretend to be his
-daughter, inherit the company. And shut it down. But he tricked
+No. I was sent in after his death. I was to pretend to be his 
+daughter, inherit the company. And shut it down. But he tricked 
 us. He changed his will.
 
 DOUGLAS
@@ -1557,7 +1557,7 @@ DOUGLAS
 I stabbed him.
 
 JANE
-But it wasn't you. It was your user. He downloaded into you.
+But it wasn't you. It was your user. He downloaded into you.  
 Manipulated you.
 
 DOUGLAS
@@ -1570,32 +1570,32 @@ DOUGLAS
 I can't have a soul any more than Fuller.
 
 JANE
-But you do. Fuller did. That's I never expected that. We
-programmed this world so no one in it could learn the truth. And
+But you do. Fuller did. That's I never expected that. We 
+programmed this world so no one in it could learn the truth. And 
 you and Fuller did. Don't you see what that means?
 
 DOUGLAS
-There's just one little flaw in your thesis.  None of this is
-real. You pull the plug. I disappear. And nothing I ever say
-nothing I ever do will ever matter. Why don't you find my user?
+There's just one little flaw in your thesis.  None of this is 
+real. You pull the plug. I disappear. And nothing I ever say 
+nothing I ever do will ever matter. Why don't you find my user? 
 I'm sure he's a much better catch.
 
 JANE
-I told you about my other life. I was referring to my husband.
+I told you about my other life. I was referring to my husband. 
 He's
 
 your user.  He killed Fuller.
 
 DOUGLAS
-I'm his program link. A reflection of his character profile. I
-fell in love with a decent man. But he ...something happened to
-him. He began to use the simulation as his own personal
-playground. Like Fuller with the girls. He made himself a god,
-and it corrupted him. he began to enjoy the killings. He became
+I'm his program link. A reflection of his character profile. I 
+fell in love with a decent man. But he ...something happened to 
+him. He began to use the simulation as his own personal 
+playground. Like Fuller with the girls. He made himself a god, 
+and it corrupted him. he began to enjoy the killings. He became 
 abusive.
 
 DOUGLAS
-What do you mean? I'm  not even real. You can fall in love with a
+What do you mean? I'm  not even real. You can fall in love with a 
 dream.
 
 JANE
@@ -1607,7 +1607,7 @@ COP
 Nice driving.
 
 WHITNEY
-There was something in the road and I had to swerve and I lost
+There was something in the road and I had to swerve and I lost 
 control.
 
 COP
@@ -1629,10 +1629,10 @@ WHITNEY
 Hey I got it. Here you go.
 
 COP
-You ought to get this car looked at as soon as you can. It's
-leaking oil.  That could be dangerous. Be a little more careful,
-huh?  You want to turn off the car and step out, please? Turn off
-the car, sir. Right now, please.  Open the trunk, please, sir.
+You ought to get this car looked at as soon as you can. It's 
+leaking oil.  That could be dangerous. Be a little more careful, 
+huh?  You want to turn off the car and step out, please? Turn off 
+the car, sir. Right now, please.  Open the trunk, please, sir.  
 Hands in the air. Step away from the trunk.
 
 WHITNEY
@@ -1642,12 +1642,12 @@ COP
 Back up! I said back the hell up!
 
 WHITNEY
-Hey, this is a joke.
+Hey, this is a joke. 
 
 (Whitney is hit by a car)
 
 GUARD
-Sorry to bother you, Mr. Hall, but Mr. Whitney's in the building
+Sorry to bother you, Mr. Hall, but Mr. Whitney's in the building 
 and he is acting kind of strange.
 
 DOUGLAS
@@ -1659,7 +1659,7 @@ JANE
 This is Jane Fuller. I need to speak with Detective McBain.
 
 McBAIN
-You've got a lot of explaining to do.  Or should I say, "Miss
+You've got a lot of explaining to do.  Or should I say, "Miss 
 Molinaro"?
 
 INT. The 13th FLOOR
@@ -1668,7 +1668,7 @@ DOUGLAS
 How are you doing?
 
 ASHTON
-All these pictures, this is your world?  I never imagined it
+All these pictures, this is your world?  I never imagined it 
 could be so beautiful.
 
 DOUGLAS
@@ -1687,34 +1687,34 @@ DOUGLAS
 Turn it off.
 
 ASHTON
-Put it back. Don't do that! Put it back! What did I do? Where are
+Put it back. Don't do that! Put it back! What did I do? Where are 
 you?  Look at this ! You're really a God.
 
 DOUGLAS
-No Ashton, I'm not really a God. I'm just like you.  Just a bunch
+No Ashton, I'm not really a God. I'm just like you.  Just a bunch 
 of electricity.
 
 ASHTON
 What are you talking about?
 
 DOUGLAS
-It's all smoke and mirrors. Just like your world. We're nothing
-but a simulation on some computer. It's like a machine. Like this
-arcade game.  You've got your players and you put your nickel in.
-This one pitches.  This one runs around the bases. Pre-
-programmed movements generated by electrical energy.  We're
-improved on this model since then. The players can beat the shit
+It's all smoke and mirrors. Just like your world. We're nothing 
+but a simulation on some computer. It's like a machine. Like this 
+arcade game.  You've got your players and you put your nickel in. 
+This one pitches.  This one runs around the bases. Pre- 
+programmed movements generated by electrical energy.  We're 
+improved on this model since then. The players can beat the shit 
 out of and try to drown some other, which is always fun.
 
 ASHTON
 But the letter said
 
 DOUGLAS
-Everything was fake? The letter was meant for me.  Fuller was
+Everything was fake? The letter was meant for me.  Fuller was 
 talking about my world.
 
 ASHTON
-So what are you saying? You're saying there's another world on
+So what are you saying? You're saying there's another world on 
 top of this one?
 
 DOUGLAS
@@ -1730,8 +1730,8 @@ ASHTON
 Why didn't they kill you?
 
 DOUGLAS
-Maybe they will. Maybe that's why you're pointing a gun at me.
-I*m sorry, Ashton. We're stuck here. You and me. And the rest of
+Maybe they will. Maybe that's why you're pointing a gun at me.  
+I*m sorry, Ashton. We're stuck here. You and me. And the rest of 
 us.
 
 ASHTON
@@ -1765,7 +1765,7 @@ JANE
 He's shutting down the system, isn't he?
 
 DAVID
-Aside from his devilish good looks, what's so special about this
+Aside from his devilish good looks, what's so special about this 
 guy?
 
 JANE
@@ -1784,7 +1784,7 @@ JANE
 You've lost your mind.
 
 DAVID
-You're the one who's fucking sick! Falling in love with a fucking
+You're the one who's fucking sick! Falling in love with a fucking 
 simulation.
 
 JANE
@@ -1809,14 +1809,14 @@ JANE
 What the hell took you so long?
 
 McBAIN
-How'd you know he7d try to kill you?
+How'd you know he7d try to kill you?  
 
 JANE
 I knew when he was planning to download. He's dead?
 
 McBAIN
-A bullet will do that to you. So, is somebody going to unplug me
-now? Do me a favor, will you? When you get back to wherever you
+A bullet will do that to you. So, is somebody going to unplug me 
+now? Do me a favor, will you? When you get back to wherever you 
 come from just leave us alone down here, okay?
 
 INT
@@ -1832,8 +1832,9 @@ MAN
 Jane, we're getting hungry!  Tell Regina we're waiting for lunch.
 
 JANE
-Okay dad. My father Fuller was modeled after him.  There's so
+Okay dad. My father Fuller was modeled after him.  There's so 
 many things I have to tell you about, Doug.
 
 
 THE END
+
