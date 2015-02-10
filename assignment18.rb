@@ -11,35 +11,32 @@ require 'active_support/all'
 #This is where you put in the API url plus your API key
 QUERY_URL = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=g6erjnt3dwhzmjkyxt9sjvzt'
 
-timetogo = "goodbye!"
 
-puts "Hello there! Please input the name of your favorite movie.."
+    puts "Hello there! Please input the name of your favorite movie.."
+
 
 loop do
+    movietitle = gets.chomp.downcase
 
-movietitle = gets.chomp.downcase
+    break if movietitle.length == 0
 
+    puts "Great selection! Give me a moment while I find #{movietitle} for you."
 
+    uri = URI(QUERY_URL + "&q=#{movietitle}")
+#It's best not to have spaces between your methods and your arguments.
+    movie_json = Net::HTTP.get(uri)
 
-puts "Great selection! Give me a moment while I find #{movietitle} for you."
+    parsed_info = JSON.parse(movie_json)['movies']
 
-uri = URI(QUERY_URL + "&q=#{movietitle}")
-
-
-movie_json = Net::HTTP.get (uri)
-
-parsed_info = JSON.parse(movie_json)['movies']
-
-parsed_info.each do |movie|
- #puts "#{movie['title']}:#{movie['synopsis']} \n\n"
- puts 'Movie: ', movie.values_at('title').join(' '), "\n"
- puts'Synopsis: ', movie.values_at('synopsis').join(' '), "\n"
+    parsed_info.each do |movie|
+#puts "#{movie['title']}:#{movie['synopsis']} \n\n"
+    puts 'Movie: ', movie.values_at('title').join(' '), "\n"
+    puts'Synopsis: ', movie.values_at('synopsis').join(' '), "\n"
 end
 
-if movietitle != timetogo
-  puts "Let's try another movie."
-else
-  puts "This is where we say goodbye. Until next time!"
-  break
- end
+    puts " "
+    print "Choose another movie if you like.."
 end
+
+    print "Appreciate your time. Until next time!"
+    puts " "
