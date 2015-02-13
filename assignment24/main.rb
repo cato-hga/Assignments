@@ -1,3 +1,15 @@
+#Take the Employee and Company classes, and create functionality to allow the company to hire and fire an employee.
+#Create a Ruby app that will use those classes to do the following:
+
+#prompt the user to enter information for the company.
+
+#prompt the user to enter each employee. It will then "hire" each of them.
+#show a list of employees, with ids, then ask the user if they would like to fire an employee by entering that id.
+#fire the employee by id and show an updated list with that employee no longer in it.
+
+
+
+
 require 'active_support'
 require 'active_support/all'
 
