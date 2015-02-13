@@ -15,7 +15,7 @@ puts "Let's start your new blog post..."
 
 puts ' '
 
-blog = Blog.new
+blog = Blog.new(' ')
 
 print "What's the name of your blog?"
 
@@ -23,7 +23,7 @@ blog.name = gets.chomp.split.map(&:capitalize).join(' ')
 print "Author Name"
 blog.user_name = gets.chomp.split.map(&:capitalize).join(' ')
 loop do
-  post = Post.new
+  post = Post.new(' ')
   print "What's the name of your post?"
   post.name = gets.chomp.split.map(&:capitalize).join(' ')
   break if post.name.empty?
@@ -35,7 +35,7 @@ loop do
   blog.posts.push(post)
 
   puts ' '
-  print "To continue adding posts, input more information." \
+  print " This post has been completed. To add another post, start typing." \
        "Otherwise, hit the ENTER key to exit and print a summary"
   puts ' '
 
@@ -45,14 +45,15 @@ puts "Exited the blog app"
 puts "Here is the final overview of your blog.."
 puts ' '
 
-print '| Blog Name:', blog.name, ' |Author: ', blog.user_name, "\n"
-puts ' '
+print  '| Blog Name:', blog.name, ' |Author: ', blog.user_name, "\n"
+puts   ' '
 blog.posts.each do |p|
 
-print ' | Post Name: ', p.name, ' | Date Published: ', p.datepublished
-print "| Summary: ", p.summary
-puts ' '
-print ' | Body: ', p.body, "\n"
-print '| Word Count:', p.word_count
+print  ' | Post Name: ', p.name, ' | Date Published: ', p.datepublished
+print  "| Summary: ", p.summary
+puts   ''
+print  ' | Body: ', p.body, "\n"
+print  '| Word Count:', p.word_count
+puts   ''
 
 end
