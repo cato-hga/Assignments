@@ -9,9 +9,7 @@ QUERY_URL = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=g6
 
   def search
 
-
   movietitle = params['title']
-
 
   uri = URI(QUERY_URL + "&q=#{movietitle}")
 
@@ -22,10 +20,5 @@ QUERY_URL = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=g6
   @movie = parsed_info.first
 
   @synopsis = @movie.values_at('synopsis').join(' ')
-
-
-
-
-
   end
 end
