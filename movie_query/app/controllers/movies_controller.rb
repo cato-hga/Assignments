@@ -19,7 +19,6 @@ QUERY_URL = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=g6
 
   movie = parsed_info.first
 
-  #synopsis = @movie.values_at('synopsis').join(' ')
 
   @title = movie['title']
   @synopsis = movie['synopsis']

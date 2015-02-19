@@ -1,23 +1,30 @@
 
-<form class="form-horizontal">
-  <div class="form-group form-group-lg">
-    <label class="col-sm-2 control-label" for="formGroupInputLarge">Enter a Movie Title</label>
-    <div class="col-sm-10">
-      <input class="form-control" type="text" id="formGroupInputLarge" placeholder="...">
-    </div>
-  </div>
-
-<h1><mark>WELCOME!</mark></h1>
-
-<h1><%= image_tag @poster %></h1>
+<h1 class="text-center">WELCOME! Please Enter a one word movie title.</h1>
 
 
 
-<h1><i>HERE IS SOME INFORMATION ABOUT YOUR MOVIE SEARCH...</i></h1>
+<%= form_tag root_path, :method => 'get' do %>
+   <p>
+     <%= text_field_tag :title %>
+     <%= submit_tag "Search" %>
+   </p>
+<% end %>
 
-<h1><u><%= @title %></u></h1>
-<h2><%= @synopsis %></h2>
-<h2><%= @year %></h2>
-<h2><%= @runtime %> Minutes</h2>
-<h2>This film is rated <%= @mpaa_rating %></h2>
-<h2>#<%= @id %></h2>
+
+
+  <p><%= image_tag @poster %></p>
+
+
+<div class="container-fluid">
+<h2 class="text-center">HERE IS SOME INFORMATION ABOUT YOUR MOVIE SEARCH</h2>
+</div>
+
+
+<div class="container-fluid">
+  <h1 ><%= @title %></h1>
+  <h3><%= @synopsis %></h3>
+  <h3><strong>Year:</strong> <%= @year %></h3>
+  <h3><strong>Runtime: </strong><%= @runtime %> Minutes</h3>
+  <h3><strong>Movie Rating: </strong> <%= @mpaa_rating %></h3>
+  <h3><strong>Movie ID: </strong> <%= @id %></h3>
+</div>
