@@ -11,7 +11,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150226193700) do
+ActiveRecord::Schema.define(version: 20150227182404) do
+
+# Could not dump table "beer_companies" because of following NoMethodError
+#   undefined method `[]' for nil:NilClass
 
   create_table "beers", force: :cascade do |t|
     t.string   "brand"

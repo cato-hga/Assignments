@@ -1,0 +1,24 @@
+# == Schema Information
+#
+# Table name: beer_companies
+#
+#  id          :integer          not null, primary key
+#  location    :string
+#  address     :text
+#  stock       :integer
+#  created_at  :datetime         not null
+#  updated_at  :datetime         not null
+#  BeerCompany :reference
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  address: MyText
+  stock: 1
+
+two:
+  location: MyString
+  address: MyText
+  stock: 1
