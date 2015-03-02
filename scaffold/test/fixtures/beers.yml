@@ -2,12 +2,12 @@
 #
 # Table name: beers
 #
-#  id           :integer          not null, primary key
-#  brand        :string
-#  many         :integer
-#  created_at   :datetime         not null
-#  updated_at   :datetime         not null
-#  Companies_id :integer
+#  id         :integer          not null, primary key
+#  brand      :string
+#  many       :integer
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#  company_id :integer
 #
 
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
