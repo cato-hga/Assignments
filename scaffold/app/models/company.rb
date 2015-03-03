@@ -11,7 +11,7 @@
 #
 
 class Company < ActiveRecord::Base
-  has_many :beer
+  has_many :beers
   validates :location, presence: true
   validates :name, presence: true
   validates :inventory, numericality: true
